@@ -3,7 +3,7 @@
 */
 
 (function($) {
-    "use strict"; 
+     
 	
     /* Navbar Scripts */
     // jQuery to collapse the navbar on scroll
@@ -69,7 +69,7 @@
 		},
         loop: true,
         navigation: {
-			nextEl: '.swiper-button-next',
+			nextEl: '.swiper-button-next',	
 			prevEl: '.swiper-button-prev'
 		},
 		slidesPerView: 3,
